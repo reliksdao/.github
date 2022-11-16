@@ -14,6 +14,6 @@ We aim to serve as an on-ramp gateway into blockchain technology (that is all).
 - There is always a cost of opportunity in everything. Do not fool yourself.
 - Live to serve, serve to live.
 
-*Technology is a powerful force in our society. Data, software, and communications can
-be used for bad: to entrench unfair power structures, to undermine human rights, and to protect vested interests. But they can also be used for good: to make underrepresented people’s voices heard, to create opportunities for everyone, and to avert disasters. This project is for everyone working towards the good.*
-(Got this one from a great book: Designing Data Intensive Applications)
+*Technology is a powerful force in our society. Data, software, and communication can
+be used for bad: to entrench unfair power structures, to undermine human rights, and to protect vested interests. But they can also be used for good: to make underrepresented people’s voices heard, to create opportunities for everyone, and to avert disasters. This book is dedicated to everyone working toward the good.*
+Kleppmann, Martin (2017). Designing Data Intensive Applications. CA: O'Reilly Media, Inc
