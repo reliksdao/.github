@@ -1,11 +1,9 @@
 # Reliks DAO
 
 ## Mission statement
-Our mission is to "mainstreamify" NFTs into the Gaming community.
-We understand that building games is very complicated by itself, let
-alone incorporating NFTs (and it's intricacies) to the tech-stack 🤯.
-
-We aim to serve as an on-ramp gateway into blockchain technology (that is all).
+Our purpose is to "mainstreamify" blockchain technology into gaming.
+We understand that building games is a feat by itself, let alone
+incorporating NFTs (and it's intricacies) to the tech-stack 🤯.
 
 ## Core Tenets
 - For one to go fast, he must go well.
